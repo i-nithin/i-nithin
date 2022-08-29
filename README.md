@@ -13,6 +13,7 @@
 - 💬 Ask me about my projects
 - 📫 How to reach me: nithinkmr2001@gmail.com
 - ⚡ Fun fact: Horrifying fact I can code in light mode
+- "https://komarev.com/ghpvc/?username=i-nithin"
 
 #🚀 Languages and Tools:
 <div>
