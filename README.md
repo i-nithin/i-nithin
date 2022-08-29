@@ -4,6 +4,7 @@
 <h1 align="center">
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://komarev.com/ghpvc/?username=i-nithin&style=flat-square&color=blue" alt=""/>
 </h1>
 
 # 🙋‍♂️ About Me
@@ -13,7 +14,6 @@
 - 💬 Ask me about my projects
 - 📫 How to reach me: nithinkmr2001@gmail.com
 - ⚡ Fun fact: Horrifying fact I can code in light mode
-- "https://komarev.com/ghpvc/?username=i-nithin"
 
 #🚀 Languages and Tools:
 <div>
