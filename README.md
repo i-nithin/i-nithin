@@ -29,5 +29,6 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=i-nithin&theme=dark&background=000000)](https://git.io/streak-stats)
 
+[![My github stats](https://github-readme-stats.vercel.app/api?username=i-nithin)](https://github.com/i-nithin/)
 
 
