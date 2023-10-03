@@ -2,7 +2,9 @@
 <div id="header" align="center">
   <a href='https://holopin.io/inithin'>
     <img src='https://holopin.onrender.com/@inithin'/>
+    ![Holopin](https://holopin.onrender.com/vinitshahdeo?style=flat-square)
 </a>
+  
 </div>
 
 
