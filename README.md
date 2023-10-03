@@ -2,6 +2,7 @@
 <div id="header" align="center">
   
 </div>
+[![An image of @inithin's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/inithin)](https://holopin.io/@inithin)
 
 <h1 align="center">
   hey there
