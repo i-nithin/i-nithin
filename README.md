@@ -1,9 +1,10 @@
 
 <div id="header" align="center">
-  
+  <a href='https://holopin.io/@inithin'>
+    <img src='https://holopin.onrender.com/inithin'/>
+</a>
 </div>
-[![@rphi's Holopin board](https://holopin.io/api/user/board?user=rphi)](https://holopin.io/@rphi)
-[![An image of @inithin's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/inithin)](https://holopin.io/@inithin)
+
 
 <h1 align="center">
   hey there
