@@ -1,7 +1,7 @@
 
 <div id="header" align="center">
-  <a href='https://holopin.io/@inithin'>
-    <img src='https://holopin.onrender.com/inithin'/>
+  <a href='https://holopin.io/inithin'>
+    <img src='https://holopin.onrender.com/@inithin'/>
 </a>
 </div>
 
