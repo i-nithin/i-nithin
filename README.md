@@ -1,9 +1,5 @@
 
 <div id="header" align="center">
-  <a href='https://holopin.io/inithin'>
-    <img src='https://holopin.onrender.com/@inithin'/>
-    ![Holopin](https://holopin.onrender.com/vinitshahdeo?style=flat-square)
-</a>
   
 </div>
 
@@ -36,5 +32,6 @@
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=i-nithin)](https://github.com/i-nithin/)
 
+[![An image of @inithin's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/inithin)](https://holopin.io/@inithin)
 
 
