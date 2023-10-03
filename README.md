@@ -9,6 +9,8 @@
 
 </h1>
 
+[![An image of @inithin's Holopin badges](https://holopin.me/inithin)](https://holopin.io/@inithin)
+
 # 🙋‍♂️ About Me
 
 - 🌱 I’m currently learning Frontend Development
@@ -32,6 +34,6 @@
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=i-nithin)](https://github.com/i-nithin/)
 
-[![An image of @inithin's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/inithin)](https://holopin.io/@inithin)
+
 
 
