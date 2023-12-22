@@ -9,15 +9,7 @@
 
 </h1>
 
-[![An image of @inithin's Holopin badges](https://holopin.me/inithin)](https://holopin.io/@inithin)
 
-# 🙋‍♂️ About Me
-
-- 🌱 I’m currently learning Frontend Development
-- 👯 I Enjoy working on ReactJs, Javascript, and UI development
-- 💬 Ask me about my projects
-- 📫 How to reach me: nithinkmr2001@gmail.com
-- ⚡ Fun fact: Horrifying fact I can code in light mode
 
 #🚀 Languages and Tools:
 <div>
